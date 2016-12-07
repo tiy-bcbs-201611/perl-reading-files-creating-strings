@@ -20,6 +20,7 @@ nytprof.out
 /_eumm/
 
 output.dat
+data/*.csv
 
 # =========================
 # Operating System Files
